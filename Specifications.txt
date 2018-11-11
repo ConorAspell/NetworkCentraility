@@ -1,0 +1,6 @@
+In this project we want to:
+ * Have a definitive ranking 1-10 on who had the best results in 2017 using NetworkX and "centrality"
+ * This centrality must take into account the margin of victory and teams beaten.
+ * Ideally, it would take into account how good the team you beat was, i.e. if 2 teams only win 1 game but 1 won against a high ranked team
+ and one was against a low ranked team, the team who beat the high ranked team would be higher
+ * Visualise it using blockbuilder.org
